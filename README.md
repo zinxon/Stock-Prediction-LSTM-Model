@@ -1,1 +1,1 @@
-# AI_project
+# Hong Kong Stock Prices Prediction (Python + Keras + LSTM Model)
